@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @James-Grim
 - 👀 I’m interested in Salesforce, Automation, Web Dev, and Learning
-- 🌱 I’m currently learning Salesforce Apex, SOQL, HTML and CSS
+- 🌱 I’m currently learning Salesforce Apex, SOQL, SQL, HTML and CSS
 - 💞️ I’m looking to collaborate on everything until I am less of a NOOB
 - 📫 How to reach me DM
 
